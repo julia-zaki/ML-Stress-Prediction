@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+missingno
+nbformat
+scipy
+catboost
+mord
+statsmodels
+optuna
